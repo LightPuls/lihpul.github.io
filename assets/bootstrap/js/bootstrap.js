@@ -1054,7 +1054,7 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
     selector: false,
     template: '<div class="tooltip"><div class="tooltip-arrow"></div><div class="tooltip-inner"></div></div>',
     trigger: 'hover focus',
-    title: 'Cabello Moreno',
+    title: '',
     delay: 0,
     html: false,
     container: false
