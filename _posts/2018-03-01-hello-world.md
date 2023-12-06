@@ -1,13 +1,10 @@
 ---
-title: "Cambios para dos"
-description: "'You ought to be ashamed of yourself for asking such a simple question,' added the Gryphon; and then they both sat silent and looked at poor Alice, who felt ready to sink into the earth. At last the Gryphon said to the Mock Turtle, 'Drive on, old fellow! Don't be all day about it!' and he went on in these words:
-'Yes, we went to school in the sea, though you mayn't believe it—'
-'I never said I didn't!' interrupted Alice.
-'You did,' said the Mock Turtle."
-picture: blog1.jpg
+title: "Proyecto en Spring **Aplicacion Web**"
+description: "Nuestro proyecto Aplicación web de Farmacia busca satisfacer la necesidad de compra de productos farmacéuticos de manera conveniente y segura. Con un enfoque en mejorar la experiencia del usuario y aumentar las ventas, se espera un crecimiento sostenible a largo plazo. La eficiencia en la gestión del inventario y la privacidad de los datos son prioritarias, y la adaptación constante al mercado es esencial para el éxito."
+picture: fondopro.jpg
 
-label_default: "alice" 
-label_primary: "story"
+label_default: "Levy" 
+label_primary: "Historia"
 label_success: "blog"
 label_info: "personal"
 label_warning: "warning"
