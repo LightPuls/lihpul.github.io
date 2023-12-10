@@ -25,7 +25,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 company_name: Pulsos Hack
 address_line: Lima - Perú
 telephone_number: 978171177
-fax_number: 1.800.245.357
+# fax_number: 1.800.245.357
 company_email: levylight0@gmail.com
 google_map: https://www.google.com/maps/@-12.0383622,-77.0292297,14.5z?entry=ttu
 
